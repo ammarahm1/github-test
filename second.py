@@ -1,2 +1,1 @@
-def sub1(x,y)
-    pass
+def sus(x,y)
